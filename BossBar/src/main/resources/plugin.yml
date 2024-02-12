@@ -1,0 +1,4 @@
+name: BossBar
+version: '${version}'
+main: com.bnjrKemal.BossBarAnnounce
+api-version: '1.20'
